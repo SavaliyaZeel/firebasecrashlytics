@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_firebasecrashlytics_firebasecrashlyticsTests : NSObject
+@end
+@implementation PodsDummy_Pods_firebasecrashlytics_firebasecrashlyticsTests
+@end
